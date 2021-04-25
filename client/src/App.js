@@ -14,7 +14,7 @@ function App() {
     <Provider store={store}>
       <div id="App">
         <Jumbotron>
-          <h1>Welcome to the Bit Coin Graph</h1>
+          <h1>Welcome to the Bitcoin Graph</h1>
           <p>
             Select a date and a currency. The graph will display the bitcoin
             market data.
