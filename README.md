@@ -1,4 +1,4 @@
-# ReactReduxBitcoinGraph
+# React/Redux Bitcoin Graph
 This is a full stack  application with a React-Redux frontend and a node backend. The application gets bitcoin market data by date and displays them on a line graph.
 
 ## Technologies Used:
