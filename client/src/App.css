@@ -1,0 +1,27 @@
+#App {
+  text-align: center;
+  position: relative;
+  height: 100vh;
+  background: currentColor;
+}
+#App-content {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  padding-top: 12rem;
+}
+#Date-selector-wrapper {
+  display: flex;
+  flex-direction: column;
+  background: whitesmoke;
+  border: black 0.5rem solid;
+}
+#Date-selector {
+  border: gold 0.5rem solid;
+}
+#Graph {
+  padding: 1rem;
+  background: whitesmoke;
+  width: 50rem;
+  border: black 0.5rem solid;
+}
